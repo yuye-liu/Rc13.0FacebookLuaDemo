@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Rc13.0FacebookLuaDemo' target in the 'Rc13.0FacebookLuaDemo' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
